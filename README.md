@@ -1,5 +1,5 @@
-# 🕒 Time Management Tool 📅  
-_A smart time management tool for staying organized and productive!_
+# 🕒 Engenda 📅  
+_An Engineering + Agenda time management tool for staying organized and productive!_
 
 ## ✨ Features  
 1. **📆 Weekly Schedule Display**  
